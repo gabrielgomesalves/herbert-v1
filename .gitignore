@@ -1,0 +1,38 @@
+# Secrets & local config
+.env
+Homestead.yaml
+Homestead.json
+
+# Dependencies (restore with `composer install` / `npm install`)
+/vendor
+/node_modules
+
+# Laravel runtime artefacts
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
+/storage/logs/*
+!/storage/logs/.gitignore
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/framework/cache/*
+/storage/laravel-backups/*
+!/storage/**/.gitignore
+!/storage/**/.gitkeep
+
+# Generated exports (zips / xls statistics)
+/public/files/*
+!/public/files/.gitkeep
+
+# Studio branding - drop your own logo in public/img/company_logo.png
+# (a neutral placeholder ships by default)
+
+# Logs, OS & IDE noise
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.buildpath
+.project
+.settings/
+*.sublime-*
