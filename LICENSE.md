@@ -33,7 +33,7 @@ Copyright (c) 2026 Gabriel Gomes Alves. All rights reserved.
 
 4. OBTAINING CONSENT
    Consent may be requested free of charge by contacting the Licensor
-   at 9057767+gabrielgomesalves@users.noreply.github.com and including:
+   at www.gabrielgomesalves.pt and including:
      (a) your name and, if applicable, your organization;
      (b) a description of your intended use; and
      (c) the scope and duration of the permission you are seeking.
