@@ -145,4 +145,5 @@ tests, i18n, a proper upload pipeline. Open an issue or a PR.
 
 Built on the [Laravel](https://laravel.com) skeleton (MIT). 
 
-* This project is source-available, not open source. Any use requires prior written permission — see LICENSE.md . Requests: 9057767+gabrielgomesalves@users.noreply.github.com *
+* This project is source-available, not open source. Any use requires prior written permission — see LICENSE.md file.
+* Requests: contact me @ www.gabrielgomesalves.pt *
